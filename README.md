@@ -2,7 +2,7 @@
 
 ### Ideias de estrategias para operar FX
 
-Tecnicas vizando GRIDs de 1 ponto
+## Tecnicas vizando GRIDs de 1 ponto
 
   1 - Cruzamento de RSI em 50%<br>
   2 - Direção de medias<br>
