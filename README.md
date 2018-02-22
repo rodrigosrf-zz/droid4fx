@@ -10,3 +10,6 @@
   4 - Cruzamento de regressao linear<br>
   5 - Média de 3 exponencial, entrar no fechamento da barra oposta a media e sair quando o high/low tocar a mesma
 
+### Tecnicas vizando HEDGE
+
+  1 - Comprar/Vender quando a barra fechar positiva/negativa e travar operação quando estiver em prejuízo
