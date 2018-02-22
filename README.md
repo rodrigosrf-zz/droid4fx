@@ -1,6 +1,6 @@
 # Droid4fx
 
-Ideias de estrategias para operar FX
+### Ideias de estrategias para operar FX
 
 Tecnicas vizando GRIDs de 1 ponto
 
