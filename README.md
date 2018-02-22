@@ -1,11 +1,11 @@
 # droid4fx
 
-Ideias de estrategias para operar FX
+<font color="red"><b>Ideias de estrategias para operar FX</b></font>
 
-Tecnicas vizando GRIDs de 1 ponto
+<b>Tecnicas vizando GRIDs de 1 ponto</b>
 
   1 - Cruzamento de RSI em 50%<br>
-  2 - Direção de medias
-  3 - Utilizar canal de medias high/low e entrar somente quando cruzar 2 ou 3 vezes seguidos
+  2 - Direção de medias<br>
+  3 - Utilizar canal de medias high/low e entrar somente quando cruzar 2 ou 3 vezes seguidos<br>
   4 - Cruzamento de regressao linear
 
