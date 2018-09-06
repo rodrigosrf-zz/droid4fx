@@ -8,7 +8,7 @@
   2 - Direção de medias<br>
   3 - Utilizar canal de medias high/low e entrar somente quando cruzar 2 ou 3 vezes seguidos<br>
   4 - Cruzamento de regressao linear<br>
-  5 - Média de 3 exponencial, entrar no fechamento da barra oposta a media e sair quando o high/low tocar a mesma
+  5 - Média de 3 exponencial, entrar no fechamento da barra oposta a media e sair quando o high/low tocar a mesma (Unir com outra estrategia seguidora de média)
 
 ### Tecnicas vizando HEDGE
 
