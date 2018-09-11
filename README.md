@@ -9,6 +9,7 @@
   3 - Utilizar canal de medias high/low e entrar somente quando cruzar 2 ou 3 vezes seguidos<br>
   4 - Cruzamento de regressao linear<br>
   5 - Média de 3 exponencial, entrar no fechamento da barra oposta a media e sair quando o high/low tocar a mesma (Unir com outra estrategia seguidora de média)
+  6 - Traçar a regressão linear no inicio do pivot point do dia anterior até o final do pivot point de hoje
 
 ### Tecnicas vizando HEDGE
 
