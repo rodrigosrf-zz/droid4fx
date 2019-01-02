@@ -4,6 +4,7 @@
 
 #### Tecnicas vizando GRIDs de 1 ponto
 
+  0 - Preço fora do desvio padrão, distante da regressão linear e 200 periodos na mesma direção do RSI<br> 
   1 - Cruzamento de RSI em 50%<br>
   2 - Direção de medias<br>
   3 - Utilizar canal de medias high/low e entrar somente quando cruzar 2 ou 3 vezes seguidos<br>
