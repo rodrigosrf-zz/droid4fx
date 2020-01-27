@@ -73,7 +73,7 @@ int OnCalculate(const int rates_total,
    for(i=limit;i<rates_total;i++)
    {
       HighBuffer[i] = Highest(high, Periodo, i);
-      LowBuffer[i] = Lowest(high, Periodo, i);
+      LowBuffer[i] = Lowest(low, Periodo, i);
       //HighBuffer[i]=CalcularMaxima(i,high,Periodo);
       //LowBuffer[i]=CalcularMinima(i,low,Periodo);
       //MiddleBuffer[i]=0;//(HighBuffer[i]-LowBuffer[i]);
